@@ -1,0 +1,14 @@
+C:\Users\Nur\source\repos\YildizBaklavaDilimi\YildizBaklavaDilimi\bin\Debug\YildizBaklavaDilimi.exe.config
+C:\Users\Nur\source\repos\YildizBaklavaDilimi\YildizBaklavaDilimi\bin\Debug\YildizBaklavaDilimi.exe
+C:\Users\Nur\source\repos\YildizBaklavaDilimi\YildizBaklavaDilimi\bin\Debug\YildizBaklavaDilimi.pdb
+C:\Users\Nur\source\repos\YildizBaklavaDilimi\YildizBaklavaDilimi\obj\Debug\YildizBaklavaDilimi.csproj.AssemblyReference.cache
+C:\Users\Nur\source\repos\YildizBaklavaDilimi\YildizBaklavaDilimi\obj\Debug\YildizBaklavaDilimi.csproj.CoreCompileInputs.cache
+C:\Users\Nur\source\repos\YildizBaklavaDilimi\YildizBaklavaDilimi\obj\Debug\YildizBaklavaDilimi.exe
+C:\Users\Nur\source\repos\YildizBaklavaDilimi\YildizBaklavaDilimi\obj\Debug\YildizBaklavaDilimi.pdb
+C:\Users\Nur\Desktop\B\Bilge Adam Projeler\Introduction\YildizBaklavaDilimi\YildizBaklavaDilimi\bin\Debug\YildizBaklavaDilimi.exe.config
+C:\Users\Nur\Desktop\B\Bilge Adam Projeler\Introduction\YildizBaklavaDilimi\YildizBaklavaDilimi\bin\Debug\YildizBaklavaDilimi.exe
+C:\Users\Nur\Desktop\B\Bilge Adam Projeler\Introduction\YildizBaklavaDilimi\YildizBaklavaDilimi\bin\Debug\YildizBaklavaDilimi.pdb
+C:\Users\Nur\Desktop\B\Bilge Adam Projeler\Introduction\YildizBaklavaDilimi\YildizBaklavaDilimi\obj\Debug\YildizBaklavaDilimi.csproj.AssemblyReference.cache
+C:\Users\Nur\Desktop\B\Bilge Adam Projeler\Introduction\YildizBaklavaDilimi\YildizBaklavaDilimi\obj\Debug\YildizBaklavaDilimi.csproj.CoreCompileInputs.cache
+C:\Users\Nur\Desktop\B\Bilge Adam Projeler\Introduction\YildizBaklavaDilimi\YildizBaklavaDilimi\obj\Debug\YildizBaklavaDilimi.exe
+C:\Users\Nur\Desktop\B\Bilge Adam Projeler\Introduction\YildizBaklavaDilimi\YildizBaklavaDilimi\obj\Debug\YildizBaklavaDilimi.pdb
